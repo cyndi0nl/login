@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MybaisLogin-parent.iml" filepath="$PROJECT_DIR$/MybaisLogin-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis-web/Mybatis-web.iml" filepath="$PROJECT_DIR$/Mybatis-web/Mybatis-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logdao/logdao.iml" filepath="$PROJECT_DIR$/logdao/logdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logservice/logservice.iml" filepath="$PROJECT_DIR$/logservice/logservice.iml" />
+    </modules>
+  </component>
+</project>
